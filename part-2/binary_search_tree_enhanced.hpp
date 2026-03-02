@@ -1,5 +1,5 @@
-#ifndef __binary_saerch_tree_enhanced__
-#define __binary_saerch_tree_enhanced__
+#ifndef __binary_search_tree_enhanced__
+#define __binary_search_tree_enhanced__
 
 #include "binary_search_tree.hpp"
 
